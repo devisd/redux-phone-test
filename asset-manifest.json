@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-phone-test/static/css/main.e6c13ad2.css",
+    "main.js": "/redux-phone-test/static/js/main.67061cc5.js",
+    "index.html": "/redux-phone-test/index.html",
+    "main.e6c13ad2.css.map": "/redux-phone-test/static/css/main.e6c13ad2.css.map",
+    "main.67061cc5.js.map": "/redux-phone-test/static/js/main.67061cc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.67061cc5.js"
+  ]
+}
